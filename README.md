@@ -30,3 +30,5 @@ The closer I was able to get was to run both `cargo` and `rustc` like
 see the [so-41492672-rust-js-structure](https://github.com/davidpodhola/so-41492672-rust-js-structure/blob/master/build.cmd)
 
 I still think some manual linking would help. Would be interested to know.
+
+P.S. to see what `rustc` uses to link, you can pass `-Z print-link-args` to it.
