@@ -27,7 +27,7 @@ The closer I was able to get was to run both `cargo` and `rustc` like
     cargo build --target asmjs-unknown-emscripten
     cd ..
 
-see the [so-41492672-rust-js-structure](https://github.com/davidpodhola/so-41492672-rust-js-structure/blob/master/build.cmd)
+see the [so-41492672-rust-js-structure](https://github.com/davidpodhola/so-41492672-rust-js-structure/blob/master/build.cmd). It allows to have several libraries that compile together to the JavaScript in the final application.
 
 I still think some manual linking would help. Would be interested to know.
 
