@@ -5,3 +5,4 @@ authors = ["davidpodhola <david.podhola@naseukoly.cz>"]
 
 [dependencies]
 lib2 = { path = "../lib2" }
+webplatform = "*"

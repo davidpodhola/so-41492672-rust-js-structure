@@ -7,3 +7,6 @@ mod tests {
     }
 }
 
+pub fn unexclamate(s:String) -> String {
+    s.replace("!", "")
+}
