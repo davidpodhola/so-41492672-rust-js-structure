@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["davidpodhola <david.podhola@naseukoly.cz>"]
 
 [dependencies]
+lib3 = { path = "../lib3" }

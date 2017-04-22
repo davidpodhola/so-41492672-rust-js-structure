@@ -4,3 +4,7 @@ mod tests {
     fn it_works() {
     }
 }
+
+pub fn hello() -> String {
+    "Hello!".to_string()
+}
